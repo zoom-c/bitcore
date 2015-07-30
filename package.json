@@ -73,7 +73,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/zoom-c/bitcore.git#Zoom"
   },
   "browser": {
     "request": "browser-request"
@@ -88,7 +88,7 @@
     "sha512": "=0.0.1"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
+    "bitcore-build": "zoom-c/bitcore-build#Zoom",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
